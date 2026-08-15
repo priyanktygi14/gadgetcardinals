@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <path d="M60 5 L68 18 L83 15 L88 30 L103 33 L102 48 L115 56 L108 70 L118 82 L106 91 L110 106 L95 109 L92 124 L77 120 L70 133 L56 123 L45 133 L38 120 L23 124 L20 109 L5 106 L9 91 L-3 82 L7 70 L0 56 L13 48 L12 33 L27 30 L32 15 L47 18 Z" fill="#6D28FF" transform="scale(0.85) translate(10, 5)"/>
+  <text x="60" y="50" fill="#FFFFFF" font-family="'Bebas Neue', 'Anton', sans-serif" font-size="14" font-weight="900" text-anchor="middle" letter-spacing="1.5">CRAZY</text>
+  <text x="60" y="65" fill="#FFFFFF" font-family="'Bebas Neue', 'Anton', sans-serif" font-size="14" font-weight="900" text-anchor="middle" letter-spacing="1.5">DEALS</text>
+  <text x="60" y="78" fill="#FFFFFF" font-family="'Bebas Neue', 'Anton', sans-serif" font-size="11" font-weight="900" text-anchor="middle" letter-spacing="1">INSIDE</text>
+</svg>
